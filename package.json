@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "fabric": "^4.2.0",
-    "hitutor-image-editor": "git+http://192.168.9.121:3000/johnny_efa1/image-editor.git",
+    "hitutor-image-editor": "git+https://github.com/hitutor/image-editor.git",
     "prettier": "^2.3.0"
   }
 }
